@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myfontstyle">
+      <item name="android:textStyle">bold|italic</item>
+        <item name="android:textColor">#f4a</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>
+
+
+   <!-- android:textColor="#f4ae"
+    android:textSize="25sp"
+    android:textStyle="bold"-->
