@@ -7,11 +7,25 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/textView3"
+        style="@style/myfontstyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello and welcome to android at VIT!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/myfontstyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="192dp"
+        android:text="TextView"
+
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
